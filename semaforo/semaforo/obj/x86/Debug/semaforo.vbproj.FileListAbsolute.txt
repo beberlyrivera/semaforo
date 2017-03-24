@@ -1,0 +1,14 @@
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\bin\Debug\semaforo.exe
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\bin\Debug\semaforo.pdb
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\bin\Debug\semaforo.xml
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\semaforo.Form1.resources
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\semaforo.Resources.resources
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\semaforo.exe
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\semaforo.xml
+C:\Users\Maria Victoria\AppData\Local\Temporary Projects\semaforo\obj\x86\Debug\semaforo.pdb
+C:\Users\Maria Victoria\Desktop\semaforo\semaforo\semaforo\obj\x86\Debug\semaforo.exe
+C:\Users\Maria Victoria\Desktop\semaforo\semaforo\semaforo\obj\x86\Debug\semaforo.xml
+C:\Users\Maria Victoria\Desktop\semaforo\semaforo\semaforo\obj\x86\Debug\semaforo.pdb
